@@ -1,0 +1,10 @@
+Cloudstep - Zero Vection Locomotion Thingy
+
+Demo Video: https://www.youtube.com/watch?v=vVVdoquKhO8
+
+Copyright 2015
+Mark Schramm - http://www.VR-Bits.com
+Blair Renaud - http://irisvirtualreality.com
+
+This product bundles "138476__randomationpictures__step-tap.wav", which is available freely at
+https://www.freesound.org/people/RandomationPictures/sounds/138476/
